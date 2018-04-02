@@ -16,5 +16,6 @@ Third project for Udacity's FEND nanodegree program.
    The game has a reset button if the player wants to reset game, which re-shuffles the cards and clears moves and timer.
   
   
-
-
+---
+  
+ ###### GitHub page:  https://foteinik.github.io/Project-Memory-Game/
