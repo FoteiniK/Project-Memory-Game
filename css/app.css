@@ -183,8 +183,15 @@ h1 {
 
 /*makes more visible the score panel on smaller screenwidth*/
 @media screen and (max-width: 650px) {
-  .score-panel{
-		font-size: large;
-	}
-
+     .score-panel{
+         font-size: large;
+    }
+     .deck {
+         width: 90%;
+         display: flex;
+         flex-wrap: wrap;
+    }
+     .deck .card {
+         margin-bottom: 10px;
+    }
 }
